@@ -1,0 +1,23 @@
+.my-Postcard{
+    font-family: Haettenschweiler;
+    margin-left: 20px;
+
+}
+.imagen{
+    display: flex;
+    justify-content: flex-start;
+    
+
+}
+
+p{
+    font-family:Georgia, Times;
+    color: black;
+   font-size: 20px;
+   margin: 20px;
+}
+
+.button1{
+    display: flex;
+    
+}
